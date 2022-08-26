@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-# 9-max_integer.py
-# Brennan D Baraban <375@holbertonschool.com>
-
-
 def max_integer(my_list=[]):
     """Find the biggest integer of a list."""
     if len(my_list) == 0:
