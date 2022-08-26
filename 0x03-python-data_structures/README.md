@@ -5,7 +5,7 @@ Python - specifically, lists and tuples.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. 
 
 ## Function Prototypes :floppy_disk:
 
